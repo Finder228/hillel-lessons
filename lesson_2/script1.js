@@ -1,5 +1,3 @@
-/*
-//first part
 let numbers = [];
 let firstNumber = prompt('input 1 number?', 0);
 let secondNumber = prompt('input 2 number?', 0);
@@ -21,22 +19,3 @@ const mean = numbersSum / itemsFound;
 console.log("mean of numbers:", mean);  
 console.log(len);
 console.log(numbersSum);
-*/
-
-/*
-//second part
-          var firstNumber = prompt ('input first value', '');
-          var secondNumber = prompt ('input second value', '');
-         
-
-switch (parseInt(firstNumber) , parseInt(secondNumber)) {
-  case firstNumber > secondNumber:
-    alert(  firstNumber + ' is greater ' );
-    break;
-  case firstNumber < secondNumber:
-    alert( secondNumber + ' is greater ' );
-    break;
-  default:
-    alert( "the values are the same" );
-}
-*/
